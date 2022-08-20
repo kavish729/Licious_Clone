@@ -5,7 +5,7 @@ Project: Make a clone of Licious website.
 
 Original-Website: https://www.licious.in/
 
-Cloned-Website: https://liciousclone.netlify.app/
+Cloned-Website: https://licious.vercel.app/
 
 Licious is an online Meat ordering website . From here you will Get delicious fresh chicken, meats and Seafood quickly delivered. Licious offers 100% fresh & best quality Chicken, Fish/Prawns and Mutton products online.
 
